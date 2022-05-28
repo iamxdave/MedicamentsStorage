@@ -50,7 +50,10 @@ Medicament management through <b>dotnet REST API</b> by <b>EntityFrameworkCore</
   
   ## API requires a JWT authentication token to be able to access the database
   <br>
+  
   **Application allows you to obtain a token by logging in and stores sensitive data in accordance with SALT and PBKDF2.**
+  
+  </br>
   <ol>
     <li>Allows to gather "user" role to gain management ability in the database</li>
     <li>Allows to get a JWT token and refresh token for changing JWT token after it disappears over time.</li>
