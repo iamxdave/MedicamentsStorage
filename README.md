@@ -1,5 +1,5 @@
 # MedicamentsStorage
-Medicament management through <b>dotnet REST API</b> by <b>EntityFrameworkCore</b> using <b<CodeFirst</b> approach.<br>
+Medicament management through <b>dotnet REST API</b> by <b>EntityFrameworkCore</b> using <b>CodeFirst</b> approach.<br>
 <br>
 <b>The application meets the assumptions of SOLID and DI</b>
 
