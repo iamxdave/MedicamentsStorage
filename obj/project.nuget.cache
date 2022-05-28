@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JXjZTeQQqfP1nGUwoFOwkdiiKCxQDDMFCb+lwTODcc2ZBwMUii4GsMAS8OlStXHkQ3GMmDO4Gq5YpTn/cAB2XA==",
+  "dgSpecHash": "fa/KrBEdMN6K1WXGdXwAVIEeNwC7LQ65YzgUGb6sX5CZ/SNyfzvEkxbN1/BXn282rRWUgkISJqHNNR2ksFa4wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj",
+  "projectFilePath": "c:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dawid\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dawid\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",

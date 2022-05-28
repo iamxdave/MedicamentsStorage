@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj": {}
+    "c:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj": {
+    "c:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj",
+        "projectUniqueName": "c:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj",
         "projectName": "cw-8-ko-xDejw",
-        "projectPath": "C:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj",
+        "projectPath": "c:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\cw-8-ko-xDejw.csproj",
         "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\obj\\",
+        "outputPath": "c:\\Users\\Dawid\\VisualProjects\\ARBD\\CW\\cw-9-ko-xDejw\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dawid\\AppData\\Roaming\\NuGet\\NuGet.Config",
