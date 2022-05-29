@@ -7,7 +7,7 @@ Medicament management through <b>dotnet REST API</b> by <b>EntityFrameworkCore</
 
 ## How does it work
 
-  Application creates a database for a company to facilitate its management in a much simpler an cleaner way.
+  Application creates a database for a company to facilitate its management in a much simpler and cleaner way.
   The database created by API i shown bellow and fulfilled with example data:
 <p align="center">
   <img src=https://user-images.githubusercontent.com/74014874/170826979-82f64495-ac23-4538-954f-e6ac9651c2f2.png
